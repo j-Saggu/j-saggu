@@ -1,0 +1,5 @@
+1 - Pro: Static websites are quick and easy. There is very little work involved (no backend)
+    Con: Can be harder to work with at first
+2 - https://github.com/j-Saggu/j-saggu.github.io
+
+sources: https://www.quora.com/What-are-the-pros-and-cons-of-using-static-site-generators 
